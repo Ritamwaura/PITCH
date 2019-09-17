@@ -24,7 +24,7 @@ here He types the title and content and then selects the category from the drop-
 Display the Pitch	Click view pitch	Each pitch displays title, description and category
 ## SetUp / Installation Requirements
 
-## Prerequisites
+# Prerequisites
 1 python3.7
 2 pip
 3 virtualenv
