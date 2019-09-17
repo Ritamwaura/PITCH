@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color: pink;
+    color: black;
+    padding: 100px 25px;
+    font-family: Segoe Script;
+}
+
+.navbar {
+    margin-bottom: 0;
+    font-size: 20px;
+}
+
+#rita {
+    background-image: url('https: //encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3tMM2MvKdO8t5rKQzHGgWpy9FuzUpso_PxtMhCxV_hJGlm_V')
+}
