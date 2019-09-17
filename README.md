@@ -26,3 +26,4 @@ Display the Pitch	Click view pitch	Each pitch displays title, description and ca
 1 python3.7
 2 pip
 3 virtualenv
+# Testing the Application
