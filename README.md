@@ -20,3 +20,9 @@ Behaviour	Input	Output
 Display Welcome Message	On page load	Select between Add a pitch and View Pitch
 Display Pitch Form	Click add pitch	Redirected to a page where He types the title and content and then selects the category from the drop-down arrow
 Display the Pitch	Click view pitch	Each pitch displays title, description and category
+## SetUp / Installation Requirements
+
+## Prerequisites
+1 python3.7
+2 pip
+3 virtualenv
