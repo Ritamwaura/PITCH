@@ -27,3 +27,5 @@ Display the Pitch	Click view pitch	Each pitch displays title, description and ca
 2 pip
 3 virtualenv
 # Testing the Application
+python3.7
+python3 manage.py runserver
