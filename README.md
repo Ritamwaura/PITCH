@@ -29,3 +29,5 @@ Display the Pitch	Click view pitch	Each pitch displays title, description and ca
 # Testing the Application
 python3.7
 python3 manage.py runserver
+## Licence
+MIT ©2019  mwaurarita2019@gmail.com
