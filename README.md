@@ -18,7 +18,9 @@ As a user I would like to:
 ## Specifications
 Behaviour	Input	Output
 Display Welcome Message	On page load	Select between Add a pitch and View Pitch
-Display Pitch Form	Click add pitch	Redirected to a page where He types the title and content and then selects the category from the drop-down arrow
+Display Pitch Form	Click add pitch	Redirected to a page wScreenshort
+user story
+here He types the title and content and then selects the category from the drop-down arrow
 Display the Pitch	Click view pitch	Each pitch displays title, description and category
 ## SetUp / Installation Requirements
 
